@@ -95,7 +95,7 @@ This is a key insight for the amrketting team and it will save them time and res
 - Correlation of independent features with target feature(Response):
 <img src = "images\corr_bar.png" >
 
-Find more exploration of the dataset in this [notebook]()
+Find more exploration of the dataset in this [notebook](https://github.com/PritamAich/Cross-sell-Prediction/blob/master/Data%20Exploration.ipynb)
 
 
 ### 2. Data Preprocessing:
@@ -127,7 +127,7 @@ b) The evaluation metric used is [Roc-Auc score](https://towardsdatascience.com/
 
 LGBM gave slightly better validation performance score than CatBoost.
 
-c) There is also basic Neural network model that was applied in this dataset. It can be found [here]()
+c) There is also basic Neural network model that was applied in this dataset. It can be found [here](https://github.com/PritamAich/Cross-sell-Prediction/blob/master/Neural%20Network%20approach.ipynb)
 
 ### 4. Testing:
 
